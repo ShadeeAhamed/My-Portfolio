@@ -28,6 +28,12 @@ I’m a Computer Networking graduate from Sri Lanka, interested in network infra
 
 > Lab guides are learning roadmaps. I only describe an exercise as completed after I have performed it and can provide verification evidence.
 
+## Live portfolio
+
+A visual portfolio website is published from this repository using GitHub Pages. Once Pages is enabled, visit: `https://shadeeahamed.github.io/My-Portfolio/`.
+
+The site uses the open-source Signal portfolio template as its starting point, including its Three.js animated background. Original template credit and MIT licence are retained in `LICENSE`.
+
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/shadee-ahamed-588107233/)
